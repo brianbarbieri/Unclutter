@@ -1,2 +1,2 @@
 ## Unclutter
-Chrome extension that redirects articles wo outline for an uncluttered read.
+Chrome extension that redirects articles to outline for an uncluttered read.
