@@ -1,0 +1,6 @@
+{
+    "name": "Unclutter",
+    "description": "Chrome extension that redirects articles wo outline for an uncluttered read.",
+    "version": "1.0",
+    "manifest_version": 3
+  }
